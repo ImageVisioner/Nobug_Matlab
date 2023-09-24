@@ -1,4 +1,5 @@
 function print_FoZu()
+% 
     fprintf('            佛祖保佑       永无BUG             \n')
     fprintf('^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n');
     fprintf('\n');
