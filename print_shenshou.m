@@ -1,4 +1,5 @@
 function print_shenshou()
+for i=1:20
     fprintf('\n');
     fprintf('^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n');
     fprintf('　　　　　　　 ┏┓　 ┏┓+ +           \n');
@@ -24,4 +25,7 @@ function print_shenshou()
     fprintf('　　　　　　　   ┗┻┛ ┗┻┛+ + + +           \n');
     fprintf('^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n');
     fprintf('\n');
+
+
+end
 end
