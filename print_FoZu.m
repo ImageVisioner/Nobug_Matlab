@@ -1,5 +1,6 @@
 function print_FoZu()
 % 
+for  i=1:10
     fprintf('            佛祖保佑       永无BUG             \n')
     fprintf('^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n');
     fprintf('\n');
@@ -23,4 +24,7 @@ function print_FoZu()
     fprintf('                   `=---=''                    \n');
     fprintf('^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n');
     fprintf('            佛祖保佑       永无BUG             \n');
+pause(1)
+end
+
 end
